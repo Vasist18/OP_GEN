@@ -1,0 +1,7 @@
+streamlit
+openai
+pytesseract
+opencv-python
+numpy
+PyMuPDF
+reportlab
